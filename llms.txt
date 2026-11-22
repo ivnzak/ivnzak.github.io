@@ -1,0 +1,25 @@
+# Ivan Zakoretskyi
+
+> Ivan Zakoretskyi is an industrial automation engineer with over 22 years of experience in process control, PLC and SCADA development, DCS commissioning, and technical project management. He works mainly with Siemens systems: SIMATIC S7, PCS 7, TIA Portal, WinCC and WinCC OA.
+
+Key facts:
+
+- Roles: Industrial Software Developer, Quality Assurance Engineer, Project Manager.
+- Current employer: PAVIS Engineering, Baden-Württemberg, Germany (2022 – present).
+- Earlier employers: VLB-MONTAZH (Kiev), Blumenbecker Gruppe (Kiev), AB-Soft (Odessa), Astarta-Kiev, Safety Technologies, Smart System Group, UkrServiceAvtomatika, PetroHolding, PromGidroStroy, Bank Aval.
+- Skills: PLC programming (Siemens S5/S7/PCS7, TIA Portal, Vipa, Schneider, Omron, Festo, ABB), SCADA/HMI (WinCC, WinCC OA, Zenon, Movicon), building management systems (Iridium, Crestron, AMX, C-Bus), industrial code standardization (IEC/EN 61131), industrial networks (ProfiBus, ModBus, MPI, LON, TCP/IP), CAD (AutoCAD, EPLAN, SolidWorks), project management (Waterfall, V-Model, PMBOK, ITIL, Agile/Kanban/Scrum), QA/QC, web development (Yii, Symfony, Vue.js), databases (MS-SQL, PgSQL, DynamoDB).
+- Notable projects: Ukrlandfarming (2500 signals, 12000 tags, 9 networked PLCs), Dominic (logic speed up to 4ms discrete I/O), Astarta-Kiev (47% energy saving on 1.5 MW process), PetroHolding, Smart System Group (140 ha automated territory), Safety Technologies.
+- Education: natural sciences faculty, V.G. Korolenko NP University (Poltava); courses: Siemens Certified SIMATIC PCS 7 Engineer (2023), VCA Basic Safety (2022), IIoT Edge (2021), PLC OOP (2019), Project Management Hard Skills (2019), Java AQA (2018), CS50 (2017), QC/QA (2016), TIA Portal (2016), Agile/Scrum (2015), BMS certification LONIX (2013).
+- Languages: English, German, Ukrainian, Russian.
+- Location: Germany (Baden-Württemberg), origin Ukraine.
+
+## Page
+
+- [Home page (human-readable)](https://ivnzak.github.io/): Full CV, skills, portfolio, contact.
+- [Home page (markdown)](https://ivnzak.github.io/index.md): Same content, clean markdown, LLM-friendly.
+
+## Documents
+
+- [CV (PDF)](https://ivnzak.github.io/cv/CV_Ivan_Zakoretskyi.pdf): Curriculum vitae, PDF.
+- [Portfolio (PDF)](https://ivnzak.github.io/cv/Portfolio_Ivan_Zakoretskyi.pdf): Project portfolio, PDF.
+- [Recommendation letter AB-Soft (PDF)](https://ivnzak.github.io/cv/AB-Soft_recomendation_letter_Ivan_Zakoretskyi.pdf): Reference from former employer, PDF.

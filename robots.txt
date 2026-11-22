@@ -1,0 +1,5 @@
+# Public personal site. All bots are welcome, including AI/LLM crawlers.
+User-agent: *
+Allow: /
+
+Sitemap: https://ivnzak.github.io/sitemap.xml
